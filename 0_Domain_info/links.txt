@@ -1,0 +1,24 @@
+https://wikifarmer.com/orange-tree-diseases-and-pests/
+https://www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/citrus/citrus-landing
+https://www.citrus.com/citrus-tree-care/pests-diseases/
+https://edis.ifas.ufl.edu/entity/topic/citrus_fungi
+https://idtools.org/id/citrus/diseases/
+https://crec.ifas.ufl.edu/extension/canker/mistaken.shtml
+
+
+https://edis.ifas.ufl.edu/pdf%5CPP%5CPP275%5CPP275-Dhdr620w3p.pdf
+https://www.routledgehandbooks.com/doi/10.1201/9780429504907-3
+
+
+diseases:
+	0. [bacteria]	Diaphorina citri: 			Citrus Greening
+	1. [bacteria]	Diaporthe citri: 			Melanose
+	2. [bacteria]	Xanthomonas citri: 			Citrus canker
+	3. [Fungus]		Penicillium digitatum:		Green Rot // Mould
+	5. [Fungus]		Elsinöe australi: 			Sweet orange scab (SOS) 
+    6. [Fungus]		Mycosphaerella citri		Citrus Greasy Spot
+    7. [Virus]		Citrus leprosis virus		Citrus Leprosis
+
+
+
+https://blog.paperspace.com/building-computer-vision-datasets/

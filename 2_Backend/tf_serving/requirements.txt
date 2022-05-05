@@ -1,0 +1,9 @@
+tensorflow~=2.8.0
+uvicorn~=0.17.6
+pillow~=9.1.0
+tensorflow-serving-api~=2.8.0
+matplotlib
+numpy~=1.22.3
+requests~=2.27.1
+fastapi==0.75.0
+python-multipart

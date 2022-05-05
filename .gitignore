@@ -1,0 +1,35 @@
+# IDE files
+*.vscode
+*.pycharm
+*.idea
+*.iml
+*.ipynb_checkpoints
+__pycache__
+__test__
+
+# Model config
+model.config
+.env
+
+# Ignored' directories
+data/
+data_sources/
+node_modules/
+playstore_files/
+build/
+
+# Android app files
+gradle
+.gradle
+keystore.properties
+yarn.lock
+yarn-error.log
+*.apk
+*.ap_
+*.aab
+*.jsbundle
+*.dex
+*.keystore
+!debug.keystore
+*.jks
+*.hprof
