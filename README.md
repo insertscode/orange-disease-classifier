@@ -1,8 +1,8 @@
 # Orange Disease Classifier App
 
-I created this project to showcase some of my skills by creating a ML powered android application. Here you'll find the frontend and backend code for the orange fruit disease classifier app. The machine learning model is deployed to GCP and accessed from the app when a user uploads an image to be classified. After future data cleaning, gathering, and manipulation I will retrain the model and store it's results somewhere in the repo. 
+This is the frontend and backend code for an android app that classifies different orange fruit diseases. A machine learning model on GCP is triggered when a user uploads an image from the app. Images uploaded by users get sent to a machine learning model deployed on GCP that evaluates the image and responds with a prediction. 
 
-The model deployed on GCP classifies
+The ML currently attepts to classify
 - Alternaria
 - Anthracnose
 - Black spot
@@ -11,22 +11,13 @@ The model deployed on GCP classifies
 - Melanose
 - Citrus scab 
 
-from healthy oranges with an accurracy of 90%. 
-
-## Data sources
-Will be disclosed in the near future.
+from healthy oranges. 
 
 
 ## Link to android app
 https://play.google.com/store/apps/details?id=com.orangediseaseclassifier
 
 
-## IOS App status
-Not coming soon. Too expensive for just one app at the moment. 
-
-
 ## Some data issues to be dealt with in the future
-1. Class imbalance
-2. Wrongfully labelled instances
-3. Too little data
- 
+1. Create a new dataset because I managed to delete the one I created for this project before I made a backup -_____-
+   - Once this is done, I will make a new model and record it's performance metrics. 
